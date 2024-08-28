@@ -3,7 +3,7 @@
 
 <!-- Dropdown -->
 <details align="left">
-  <summary>👨🏻‍💻 About Me </summary>
+  <summary> <h3>👨🏻‍💻 About Me </h3> </summary>
   I'm Matheus! A passionate System analysis and development student from Brazil. <br><br>
 - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.<br>
 - 📚 I’m currently studying System analysis and development at IFPR (Instituto Federal do Paraná - Campus Irati)
@@ -12,16 +12,16 @@
 <!-- Links -->
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-yuri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="26" alt="linkedin logo"  />
   </a>
   <a href="https://www.discord.com/msyf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="26" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/msyf.yea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/msyfyuri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="30" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="26" alt="twitch logo"  />
   </a>
 </div>
 
