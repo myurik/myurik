@@ -3,7 +3,7 @@
 
 <!-- Dropdown -->
 <details align="left">
-  <summary>👩‍💻 About Me </summary>
+  <summary>👨🏻‍💻 About Me </summary>
   I'm Matheus! A passionate System analysis and development student from Brazil. <br><br>
 - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.<br>
 - 📚 I’m currently studying System analysis and development at IFPR (Instituto Federal do Paraná - Campus Irati)
