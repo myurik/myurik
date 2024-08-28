@@ -35,9 +35,10 @@
 - [Spotify WebSite](https://github.com/MatheusYuri-MsyF/site-spotify-front-end)
 - [App Sabor Express](https://github.com/MatheusYuri-MsyF/sabor-express)
 
-<!-- Snake -->
-<img src="https://raw.githubusercontent.com/MatheusYuri-MsyF/MatheusYuri-MsyF/output/snake.svg" alt="Snake animation" />
-
+<!-- Snake 
+![Snake Animation](https://github.com/MatheusYuri-MsyF/MatheusYuri-MsyF/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.verce1.app/api/pin/?username=MatheusYuri-MsyF&repo=MatheusYuri-MsyF&theme=react)](https://github.com/MatheusYuri-MsyF/MatheusYuri-MsyF)
+-->
 ---
 
 ## 🔥 Skills
