@@ -17,7 +17,7 @@
   <a href="https://www.discord.com/msyf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="26" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/msyf.yea/" target="_blank">
+  <a href="https://www.instagram.com/math_yurizz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/msyfyuri" target="_blank">
@@ -30,17 +30,17 @@
 ---
 <!-- GithubStats -->
 ## 👀 My Stats
-![MatheusYuri-MsyF GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusYuri-MsyF&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYuri-MsyF&layout=compact&theme=tokyonight)
+![myurik GitHub stats](https://github-readme-stats.vercel.app/api?username=myurik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myurik&layout=compact&theme=tokyonight)
 
 ---
 
 <!-- Portfolio -->
 ## Portfolio:
-- [First Project with Java](https://github.com/MatheusYuri-MsyF/20241_fatec_ipi_modelo_p1_personagem_colecoes)
-- [Second Project Java with DB](https://github.com/MatheusYuri-MsyF/p2-java-poo)
-- [Spotify WebSite](https://github.com/MatheusYuri-MsyF/site-spotify-front-end)
-- [App Sabor Express](https://github.com/MatheusYuri-MsyF/sabor-express)
+- [First Project with Java](https://github.com/myurik/20241_fatec_ipi_modelo_p1_personagem_colecoes)
+- [Second Project Java with DB](https://github.com/myurik/p2-java-poo)
+- [Spotify WebSite](https://github.com/myurik/site-spotify-front-end)
+- [App Sabor Express](https://github.com/myurik/sabor-express)
 
 <!-- Snake 
 ![Snake Animation](https://github.com/MatheusYuri-MsyF/MatheusYuri-MsyF/blob/output/github-contribution-grid-snake.svg)
