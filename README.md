@@ -1,29 +1,21 @@
-<h1 align="center">Hello, World👋! <img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV4dGlha2M5ajZzdXlob2F0b3JxZHh1ZjY0bDMwOWNzZDk5N3M1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"  /></h1> 
-
+<div>  
+    <h1 align="center">Hello, World👋!</h1> 
+    <img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV4dGlha2M5ajZzdXlob2F0b3JxZHh1ZjY0bDMwOWNzZDk5N3M1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"/> 
+</div>
 
 <!-- Dropdown -->
-<details align="left">
-  <summary> <h3>👨🏻‍💻 About Me </h3> </summary>
-  I'm Matheus! A passionate System analysis and development student from Brazil. <br><br>
-- 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.<br>
-- 📚 I’m currently studying System analysis and development at IFPR (Instituto Federal do Paraná - Campus Irati)
-</details>
+### 👨🏻‍💻 Sobre Mim 
+ Sou o Matheus! Um estudante apaixonado de Análise e Desenvolvimento de Sistemas, do Brasil. <br>
+- 🔭 Estou em busca da minha primeira oportunidade de trabalho. Meu sonho é, um dia, trabalhar com IA (Inteligência Artificial) e Aprendizado de Máquina. <br>
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas na PUC-PR (Pontifícia Universidade Católica do Paraná – Curitiba).
 
-<!-- Links -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-yuri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.discord.com/msyf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="26" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/math_yurizz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/msyfyuri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="26" alt="twitch logo"  />
-  </a>
-</div>
+
+### Conecte-se comigo!
+
+[![Perfil DIO](https://img.shields.io/badge/%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/matheusyuri_my/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-yuri)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/math_yurizz/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@matheusyuri_my)
 
 ###
 
@@ -33,7 +25,7 @@
 ![myurik GitHub stats](https://github-readme-stats.vercel.app/api?username=myurik&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myurik&layout=compact&theme=tokyonight)
 
----
+
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -42,42 +34,24 @@
 - [Spotify WebSite](https://github.com/myurik/site-spotify-front-end)
 - [App Sabor Express](https://github.com/myurik/sabor-express)
 
-<!-- Snake 
-![Snake Animation](https://github.com/MatheusYuri-MsyF/MatheusYuri-MsyF/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.verce1.app/api/pin/?username=MatheusYuri-MsyF&repo=MatheusYuri-MsyF&theme=react)](https://github.com/MatheusYuri-MsyF/MatheusYuri-MsyF)
--->
----
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-<h3 align="left">🛠 Language </h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
+
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <div align="left">
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-    </div>
-  </div>
+## Bibliotecas e Frameworks
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
----
-
+  
 ###
 
 <picture align="center">
