@@ -22,10 +22,10 @@
 
 ---
 
-<!-- Portfolio -->
+<!-- Portfolio 
 ### Portfolio:
 - [First Project with Java](https://github.com/myurik/20241_fatec_ipi_modelo_p1_personagem_colecoes)
-- [Second Project Java with DB](https://github.com/myurik/p2-java-poo)
+- [Second Project Java with DB](https://github.com/myurik/p2-java-poo) -->
 
 
 ### 🛠️ Tecnologias e Ferramentas
