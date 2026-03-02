@@ -46,25 +46,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 🗂️ Projetos em Destaque
-<div align="center">
-  <a href="https://github.com/myurik/p2-java-poo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myurik&repo=p2-java-poo&theme=tokyonight&show_icons=true" width="400"/>
-  </a>
-  <a href="https://github.com/myurik/logica-programacao-js-iepsen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myurik&repo=logica-programacao-js-iepsen&theme=tokyonight&show_icons=true" width="400"/>
-  </a>
-</div>
-
-<br>
-
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myurik&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myurik&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
-</div>
-
-<br>
 
 ### 🐍 Contribuições
 <div align="center">
