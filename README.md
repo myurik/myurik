@@ -31,8 +31,7 @@
 ## Portfolio:
 - [First Project with Java](https://github.com/myurik/20241_fatec_ipi_modelo_p1_personagem_colecoes)
 - [Second Project Java with DB](https://github.com/myurik/p2-java-poo)
-- [Spotify WebSite](https://github.com/myurik/site-spotify-front-end)
-- [App Sabor Express](https://github.com/myurik/sabor-express)
+
 
 
 
