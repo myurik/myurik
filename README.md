@@ -25,8 +25,8 @@
 ### 📂 Meu Portfólio e Estudos
 Aqui estão os repositórios onde documento minha evolução e projetos acadêmicos:
 
-* [🎓 **PUC - Engenharia de Software**](https://github.com/myurik/puc-archives): Projetos Full-Stack, documentação UML, IHC, e scripts de Segurança da Informação (Criptografia, Snort).
-* [🎓 **FATEC - Arquivo Acadêmico**](https://github.com/myurik/fatec-archives): Base forte em Estrutura de Dados, Algoritmos clássicos, POO e modelagem de Banco de Dados.
+<!--* [🎓 **PUC - Engenharia de Software**](https://github.com/myurik/puc-archives): Projetos Full-Stack, documentação UML, IHC, e scripts de Segurança da Informação (Criptografia, Snort).
+* [🎓 **FATEC - Arquivo Acadêmico**](https://github.com/myurik/fatec-archives): Base forte em Estrutura de Dados, Algoritmos clássicos, POO e modelagem de Banco de Dados.-->
 * [🛠️ **Meus Scripts Linux**](https://github.com/myurik/MeusScripts): Meu "canivete suíço" de automação com Shell Script para gerenciamento de sistema e Docker.
 
 ---
