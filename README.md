@@ -8,7 +8,7 @@
 <!-- Dropdown -->
 ### 👨🏻‍💻 Sobre Mim 
 - 🔭 Estudando Análise e Desenvolvimento de Sistemas (ADS) na PUCPR (Pontifícia Universidade Católica do Paraná – Curitiba).
-- 💡 Tenho o grande objetivo de construir uma carreira focada em **Inteligência Artificial** e **Machine Learning**.
+<!-- 💡 Tenho o grande objetivo de construir uma carreira focada em **Inteligência Artificial** e **Machine Learning**.-->
 - 📚 Atualmente, estou focado em construir uma base sólida resolvendo algoritmos e estruturas de dados com **JavaScript**.
 - 🚀 Buscando minha primeira oportunidade profissional como Desenvolvedor.
 
